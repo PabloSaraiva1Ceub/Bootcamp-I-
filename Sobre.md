@@ -11,7 +11,7 @@
 ## 👨‍💼 Experiência Profissional
 
 - **Vendedor – Loja de Armas**  
-  Trabalhei por 1 ano como vendedora em uma loja de armas, onde aprendi sobre o mercado de segurança e defesa, atendimento ao cliente e gestão de produtos.  
+  Trabalhei por 1 ano como vendedor em uma loja de armas, onde aprendi sobre o mercado de segurança e defesa, atendimento ao cliente e gestão de produtos.  
   - Responsável por apresentar e explicar as especificações de produtos, além de fornecer orientação sobre regulamentação e uso responsável.
   
 - **Proprietário – Empresa de Banners**  
@@ -65,18 +65,7 @@ Com o tempo, consegui construir uma base sólida de conhecimento e uma trajetór
 ---
 
 ## 🛠️ Habilidades
-
-- **Desenvolvimento Web**: HTML, CSS, JavaScript, Java  
-- **Ferramentas**: Git, GitHub, Visual Studio Code  
 - **Design e Marketing**: Experiência em criação de banners e identidade visual.
-
----
-
-## 📫 Como me encontrar
-
-- **LinkedIn**: [Pablo Saraiva](https://linkedin.com/in/pablosaraiva)  
-- **Instagram**: [@pablosaraiva](https://instagram.com/pablosaraiva)  
-- **Portfólio (em breve)**: [Meu portfólio](https://pablosaraiva.dev)  
 
 ---
 
