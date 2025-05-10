@@ -37,3 +37,5 @@
 ---
 
 > 🌱 *"Cada linha de código é uma semente plantada no futuro que você quer colher."*
+---
+> ![Desenvolvedor em ação](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
