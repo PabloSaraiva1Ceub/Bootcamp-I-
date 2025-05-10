@@ -1,18 +1,30 @@
-# 👩‍💻 Olá, mundo! Eu sou o Pablo Saraiva!
+# 👨‍💻 Olá, eu sou o **Pablo Saraiva**!
 
 ![Desenvolvedor em ação](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
- Tenho **21 anos** e sou estudante de **Análise e Desenvolvimento de Sistemas** no **CEUB – Centro Universitário de Brasília**.  
- Apaixonada por tecnologia, inovação e resolver problemas com código!  
- Explorando o universo do **GitHub**, aprendendo a versionar projetos como uma verdadeira dev!
+🎓 **Idade**: 21 anos  
+📍 **Localização**: Brasília, DF  
+💼 **Formação**: Estudante de **Análise e Desenvolvimento de Sistemas** no **CEUB – Centro Universitário de Brasília**
 
 ---
 
-## 🎓 Fase 1: Início da Jornada
+## 👨‍💼 Experiência Profissional
 
-![Início Engraçado](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+- **Vendedor – Loja de Armas**  
+  Trabalhei por 1 ano como vendedora em uma loja de armas, onde aprendi sobre o mercado de segurança e defesa, atendimento ao cliente e gestão de produtos.  
+  - Responsável por apresentar e explicar as especificações de produtos, além de fornecer orientação sobre regulamentação e uso responsável.
+  
+- **Proprietário – Empresa de Banners**  
+  Fundei uma empresa de banners e materiais gráficos, onde desenvolvi habilidades empreendedoras, como gestão de equipe, marketing e negociação com clientes.
 
-**Descrição:** Representa o começo dos estudos com muito humor e entusiasmo!
+---
+
+## 🚀 Fase 1: Início da Jornada
+
+![Início da Jornada](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+**Descrição:**  
+O início da minha jornada como desenvolvedor foi uma mistura de desafios e aprendizado. Deixe-me ser honesto, estava nervoso, mas também muito motivado para crescer na área de tecnologia.
 
 ---
 
@@ -20,15 +32,17 @@
 
 ![Aprendizado e Desenvolvimento](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
 
-**Descrição:** Reflete o período de aprendizado intenso e desenvolvimento de habilidades.
+**Descrição:**  
+Durante esse período, me aprofundei em **Java**, **HTML**, **CSS**, e **JavaScript**. Cada novo conceito parecia ser uma chave para um novo universo de possibilidades, e a busca por melhorar minhas habilidades nunca parou.
 
 ---
 
-## 🚀 Fase 3: Aplicação Prática
+## 🔧 Fase 3: Aplicação Prática
 
 ![Aplicação Prática](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-**Descrição:** Demonstrando a aplicação dos conhecimentos em projetos reais.
+**Descrição:**  
+Aqui, comecei a aplicar meus conhecimentos em projetos reais. Fui desenvolvendo sites, criando pequenos sistemas e explorando ferramentas de desenvolvimento de software. O aprendizado prático me ajudou a solidificar tudo o que eu havia estudado.
 
 ---
 
@@ -36,33 +50,34 @@
 
 ![Conquista e Realização](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
-**Descrição:** Celebrando as conquistas alcançadas ao longo da jornada.
+**Descrição:**  
+Com o tempo, consegui construir uma base sólida de conhecimento e uma trajetória de crescimento profissional. Estou animado com o futuro e preparado para novos desafios, especialmente em áreas como desenvolvimento web e design de soluções para clientes.
 
 ---
 
-## 🌟 O que você vai encontrar aqui
+## 📚 Meus Objetivos
 
-- Projetos acadêmicos 👩‍🏫  
-- Experimentos com HTML, CSS, JS e Java 💻  
-- Anotações e resumos em Markdown 📝  
-- Meu progresso como desenvolvedora 🚀  
-
----
-
-## ✨ Meus objetivos
-
-- Aprender desenvolvimento web com boas práticas   
-- Criar um portfólio com projetos reais 📁 
-- Compartilhar conhecimento com outras pessoas da área  
-- Conquistar um estágio na área de tecnologia 
+- **Estudar mais sobre desenvolvimento web** e outras linguagens de programação avançadas.  
+- **Criar um portfólio online** com projetos reais e profissionais.  
+- **Buscar uma oportunidade de estágio** para aplicar meus conhecimentos na prática.  
+- **Desenvolver soluções inovadoras** e ferramentas que impactem positivamente o mercado.
 
 ---
 
-## 🛠️ Habilidades em desenvolvimento
+## 🛠️ Habilidades
 
-- `HTML` / `CSS`  
-- Git e GitHub  
+- **Desenvolvimento Web**: HTML, CSS, JavaScript, Java  
+- **Ferramentas**: Git, GitHub, Visual Studio Code  
+- **Design e Marketing**: Experiência em criação de banners e identidade visual.
 
 ---
 
-> 🌱 *"Cada linha de código é uma semente plantada no futuro que você quer colher."*
+## 📫 Como me encontrar
+
+- **LinkedIn**: [Pablo Saraiva](https://linkedin.com/in/pablosaraiva)  
+- **Instagram**: [@pablosaraiva](https://instagram.com/pablosaraiva)  
+- **Portfólio (em breve)**: [Meu portfólio](https://pablosaraiva.dev)  
+
+---
+
+> 🌱 *"A programação é como a arte, você sempre está em busca de criar algo único e inovador."*
