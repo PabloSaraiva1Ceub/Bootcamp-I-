@@ -36,8 +36,4 @@
 
 ---
 
-#  Me acompanhe por aí
-
-- [LinkedIn]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/pablo-saraiva-558148248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-
 > 🌱 *"Cada linha de código é uma semente plantada no futuro que você quer colher."*
