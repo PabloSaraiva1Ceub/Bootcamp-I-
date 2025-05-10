@@ -51,4 +51,8 @@ Com o tempo, consegui construir uma base sólida de conhecimento e uma trajetór
 
 ---
 
+ Como me encontrar
+
+- **LinkedIn**: [Pablo Saraiva](https://www.linkedin.com/in/pablosaraiva1811/)  
+
 > 🌱 *"A programação é como a arte, você sempre está em busca de criar algo único e inovador."*
